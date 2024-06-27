@@ -5,6 +5,15 @@
 //  Created by hatsune miku on 2024/6/25.
 //
 
+/*
+ Statement for BigCo
+ Hamlet: 650.00 (55 seats)
+ As You Like It: 580.00 (35 seats)
+ Othello: 500.00 (40 seats)
+ Amount owed is 1730.00
+ You earned 47 credits
+ */
+
 import Foundation
 
 func statement(playDictionary: [String: Play], invoice: Invoice) -> String {
